@@ -6,7 +6,12 @@ The training dataset includes tweets posted, and a few features associated with 
 
 Your task will be to correctly predict the partisanship of the politician who posted the tweet(s) by analyzing tweet-specific information.
 
-Descriptive information about the features included in the dataset:
+## Dataset Description
+Files
+congressional_tweet_training_data.csv - the training set
+congressional_tweet_test_data.csv - the test set
+
+## Descriptive information about the features included in the dataset:
 
 Id : id number associated with the tweet
 favorite _ count : number of times the tweet was favorited
