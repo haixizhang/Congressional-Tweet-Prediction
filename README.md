@@ -13,13 +13,13 @@ congressional_tweet_test_data.csv - the test set
 
 ## Descriptive information about the features included in the dataset:
 
-Id : id number associated with the tweet_
-favorite _ count : number of times the tweet was favorited_
-full _ text : full text of the tweet_
-hashtags : list of hashtags included in the tweet_
-retweet _ count : number of times the tweet has been retweeted_
-year : year of the tweet_
-party : partisanship of the owner of the tweet [D = 'Democrat', R = 'Republican']_
+Id : id number associated with the tweet\
+favorite _ count : number of times the tweet was favorited\
+full _ text : full text of the tweet\
+hashtags : list of hashtags included in the tweet\
+retweet _ count : number of times the tweet has been retweeted\
+year : year of the tweet\
+party : partisanship of the owner of the tweet [D = 'Democrat', R = 'Republican']\
 
 Evaluation
 Will be evaluated based on the '***accuracy***' of the prediction. For the definition of accuracy, please check: https://developers.google.com/machine-learning/crash-course/classification/accuracy
